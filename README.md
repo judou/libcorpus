@@ -1,6 +1,6 @@
 libcorpus
 ==========
 
-A general NLP corpus specification and utilities.
+A general Chinese NLP corpus specification and utilities.
 
 
